@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\build\intermediates\pre-dexed\debug\unity-classes_0d661cc9a4e35acde6f80a1c3ebef7693870ce60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_69f2269c6b50856178c7e2693ff6a8eb9307203a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4ee728bf44bb57006c73b8a0bec3b7a98a88989c">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f6c820dfe660c315c77fd0a83f95d6f54b61d8f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ServerAndroid\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_0d661cc9a4e35acde6f80a1c3ebef7693870ce60\classes.dex" />
+    </item>
+
+</items>

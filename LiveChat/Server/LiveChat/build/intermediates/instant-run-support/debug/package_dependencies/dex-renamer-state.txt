@@ -1,0 +1,4 @@
+#Fri May 25 18:35:51 CEST 2018
+base.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\Server\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_b3e3509fd83c82cbbbc351881ceea70b5d41738e
+renamed.0=classes.dex
+file.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\Server\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_b3e3509fd83c82cbbbc351881ceea70b5d41738e\\classes.dex

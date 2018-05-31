@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_b3e3509fd83c82cbbbc351881ceea70b5d41738e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec458cade3898130d1222e06f8d59f5d388e77bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="baac903f9e9875d29ce3b64e75a0ee7394d9de13">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3719e5f777c11f223ccd8a82430dea786c955f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\Server\LiveChat\build\intermediates\pre-dexed\debug\unity-classes_b3e3509fd83c82cbbbc351881ceea70b5d41738e.jar" />
+    </item>
+
+</items>

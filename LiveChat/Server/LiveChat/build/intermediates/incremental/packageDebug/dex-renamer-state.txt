@@ -1,0 +1,7 @@
+#Fri May 25 18:35:52 CEST 2018
+base.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\Server\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3719e5f777c11f223ccd8a82430dea786c955f71
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\Server\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec458cade3898130d1222e06f8d59f5d388e77bb\\classes.dex
+base.1=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\Server\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec458cade3898130d1222e06f8d59f5d388e77bb
+file.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\Server\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3719e5f777c11f223ccd8a82430dea786c955f71\\classes.dex

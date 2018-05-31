@@ -1,0 +1,4 @@
+#Thu May 31 12:19:13 CEST 2018
+base.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\ServerAndroid\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_0d661cc9a4e35acde6f80a1c3ebef7693870ce60
+renamed.0=classes.dex
+file.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\ServerAndroid\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_0d661cc9a4e35acde6f80a1c3ebef7693870ce60\\classes.dex

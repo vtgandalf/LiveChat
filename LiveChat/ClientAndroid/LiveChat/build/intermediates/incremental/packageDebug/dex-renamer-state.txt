@@ -1,0 +1,7 @@
+#Thu May 31 12:17:11 CEST 2018
+base.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\ClientAndroid\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53fcccc80d79ad98fa366b0105600bdc86edbfcd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\ClientAndroid\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb4126336b01c9e2e2d47457598e0447a934761b\\classes.dex
+base.1=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\ClientAndroid\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb4126336b01c9e2e2d47457598e0447a934761b
+file.0=C\:\\Users\\valeri\\Documents\\Unity\\LiveChat\\ClientAndroid\\LiveChat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53fcccc80d79ad98fa366b0105600bdc86edbfcd\\classes.dex

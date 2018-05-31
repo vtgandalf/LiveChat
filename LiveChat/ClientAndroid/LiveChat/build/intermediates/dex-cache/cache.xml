@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e8426dbc3c605bf3b7beec939561f0059a04337e">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bb4126336b01c9e2e2d47457598e0447a934761b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_2fe1f7ff323e140d664920d5e4a258c648c84c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53fcccc80d79ad98fa366b0105600bdc86edbfcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="C:\Users\valeri\Documents\Unity\LiveChat\ClientAndroid\LiveChat\build\intermediates\pre-dexed\debug\unity-classes_2fe1f7ff323e140d664920d5e4a258c648c84c3a.jar" />
+    </item>
+
+</items>
